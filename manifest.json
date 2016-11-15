@@ -1,0 +1,12 @@
+{
+   "manifest_version": 2,
+
+   "name": "Trademe Live",
+   "description": "This extension makes all trademe auction pages update live or at least kind of",
+   "version": "1.0",
+   
+   "permissions": [
+      "activeTab",
+      "https://ajax.googleapis.com"
+   ]
+}
